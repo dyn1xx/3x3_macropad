@@ -1,10 +1,10 @@
 # handwired/3x3_macropad
 
-![https://imgur.com/a/en7C9Rt](Macropad)
-
+![Image](https://i.imgur.com/2FbZvj6.jpeg)
 
 ## Layout
 
+```
 ┌───┬───┬───┐
 │MTE│DFN│RST│
 ├───┼───┼───┤
@@ -12,6 +12,7 @@
 ├───┼───┼───┤
 │NXT│PLY│PRV│
 └───┴───┴───┘
+```
 
 Make example for this keyboard (after setting up your build environment):
 
