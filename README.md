@@ -4,15 +4,10 @@
 
 ## Layout
 
-```
-┌───┬───┬───┐
-│MTE│DFN│RST│
-├───┼───┼───┤
-│CLP│MRK│90s│
-├───┼───┼───┤
-│NXT│PLY│PRV│
-└───┴───┴───┘
-```
+| CTRL+F8  | CTRL+F9  | RESET    |
+| -------- | -------- | -------- |
+| CTRL+F11 | CTRL+F12 | CTRL+F10 |
+| PREV     | PLAY     | NEXT     |
 
 Make example for this keyboard (after setting up your build environment):
 
